@@ -20,8 +20,9 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
 - Review outstanding actions in the weekly PM sync
+- Capture process improvement suggestions via the [issue template](../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml)
 
-## Example Action Item Template
+## Action Item Template
 - Title:
 - Description:
 - Owner:
@@ -31,3 +32,20 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+- Review and update [Definition of Ready & Done](templates/definition-of-ready-and-done.md) at each retrospective
+
+## Project Closeout
+When closing a project or major release, complete the **[Project Closeout Checklist](templates/project-closeout-checklist.md)**, which covers:
+- Delivery confirmation
+- Documentation & knowledge transfer
+- Risk & issue closure
+- Stakeholder communication
+- Archive and access cleanup
+
+---
+
+**Previous phase:** [Release & Deployment ←](octoacme-release-and-deployment.md)
+
+**Related templates:**
+- [Project Closeout Checklist](templates/project-closeout-checklist.md)
+- [Definition of Ready & Done](templates/definition-of-ready-and-done.md)

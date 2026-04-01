@@ -78,4 +78,5 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
+- For activity-level ownership across the project lifecycle, see the [RACI Matrix Template](templates/raci-matrix-template.md).
 
